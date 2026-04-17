@@ -1,13 +1,13 @@
 # Hi there! I'm Kanokphorn Rungrattanapong(Lookmai) 🤖🚀
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20&%20Computer%20Vision%20Developer&fontSize=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20&%20Full-stack%20Developer&fontSize=45)
 
-### 🎓 Professional Summary
-I am a 3rd-year **Artificial Intelligence** student at Huachiew Chalermprakiet University (GPA 3.72). I specialize in **Computer Vision** and **Real-time Detection Pipelines**, with a proven track record of leading technical teams to solve complex security and optimization challenges.
+### 🎓 Summary
+I am a 3rd-year **Artificial Intelligence** student at Huachiew Chalermprakiet University. I specialize in **Computer Vision**, **Real-time Detection Pipelines**, and **Web Integration**, with a proven track record of leading technical teams to solve complex security and optimization challenges.
 
-- 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics.
+- 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics (AI3313).
 - 🧠 **Research Interests:** Natural Language Processing (RAG & TTS) and Autonomous Defense Systems.
-- ⚡ **Commitment:** Engineering stable, high-performance AI solutions for real-world applications.
+- ⚡ **Commitment:** Engineering stable, high-performance AI solutions with modern web interfaces.
 
 ---
 
@@ -16,28 +16,28 @@ I am a 3rd-year **Artificial Intelligence** student at Huachiew Chalermprakiet U
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **AI & Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?logo=yolo&logoColor=black) |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Optimization** | `Metaheuristics (ILS, GA, ACO)` `GitHub Copilot` `Claude AI` |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Backend & Systems** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Tools & Optimization** | `Metaheuristics (ILS, GA)` `GitHub Copilot` `Claude AI` |
 
 ---
 
-### 🌟 Featured AI & Engineering Projects
+### 🌟 Featured AI & Web Projects
 
 #### 🛡️ [Anti-Drone Defense System (TESA Top Gun Rally 2025)](https://github.com/Lookmaizaza)
 **Role: Lead AI Developer (Defense)**
 - Spearheaded the development of a real-time defense system using **YOLOv8n**.
+- Integrated AI detection with a **React-based dashboard** for live GPS telemetry visualization.
 - Optimized model inference speed and accuracy for high-stakes drone detection.
-- Implemented computer vision solutions to effectively counter aerial threats.
 
 #### 📦 [Metaheuristic Packing Optimizer](https://github.com/Lookmaizaza)
 **AI3313 Term Project**
 - Formulated and solved complex **Packing Problems** using Metaheuristic algorithms (ILS & GA).
-- Focused on minimizing wasted space while adhering to strict objective constraints.
+- Developed a visualizer to demonstrate space utilization and convergence behavior.
 
 #### 🎙️ [Auto-Thai Text & Speech Pipeline](https://github.com/Lookmaizaza)
-- Developing automated systems for **Thai Text Extraction** and **Tokenization**.
-- Exploring **TTS (Text-to-Speech)** and **RAG** for enhanced linguistic analysis.
+- Built a web-based system using **React** and **Node.js** for automated Thai text extraction.
+- Exploring **TTS** and **RAG** for enhanced linguistic analysis and interactive AI agents.
 
 ---
 
@@ -55,5 +55,5 @@ I am a 3rd-year **Artificial Intelligence** student at Huachiew Chalermprakiet U
 
 ---
 <p align="center">
-  <i>"Leveraging AI to solve real-world challenges with precision and stability."</i>
+  <i>"Leveraging AI and Modern Web Tech to solve real-world challenges."</i>
 </p>
