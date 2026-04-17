@@ -1,11 +1,11 @@
-# Hi there! I'm Kanokphorn Rungrattanapong(ศนนาทฟร) 🤖🚀
+# Hi there! I'm Kanokphorn Rungrattanapong(Lookmai) 🤖🚀
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20&%20Computer%20Vision%20Developer&fontSize=45)
 
 ### 🎓 Professional Summary
 I am a 3rd-year **Artificial Intelligence** student at Huachiew Chalermprakiet University (GPA 3.72). I specialize in **Computer Vision** and **Real-time Detection Pipelines**, with a proven track record of leading technical teams to solve complex security and optimization challenges.
 
-- 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics (AI3313).
+- 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics.
 - 🧠 **Research Interests:** Natural Language Processing (RAG & TTS) and Autonomous Defense Systems.
 - ⚡ **Commitment:** Engineering stable, high-performance AI solutions for real-world applications.
 
