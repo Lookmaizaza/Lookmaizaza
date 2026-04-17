@@ -22,7 +22,7 @@ I am a 3rd-year **Artificial Intelligence student** at Huachiew Chalermprakiet U
 ### 🌟 Featured Projects
 
 #### 🛡️ Anti-Drone Defense System (TESA 2025) [![View Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lookmaizaza/TESA_2025) [![Watch Demo](https://img.shields.io/badge/-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](http://youtube.com/watch?v=CXnDO8Qoxrs)
-- **Role: Lead AI Developer (Defense)**
+**Role: Lead AI Developer (Defense)**
 - Developed a real-time defense system using **YOLOv8n** for high-precision drone detection.
 - Built a **React** dashboard for live telemetry and threat visualization.
 
