@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20&%20Full-stack%20Developer&fontSize=45)
 
 ### 🎓 Summary
-I am a 3rd-year **Artificial Intelligence** student at Huachiew Chalermprakiet University. I specialize in **Computer Vision**, **Real-time Detection Pipelines**, and **Web Integration**, with a proven track record of leading technical teams to solve complex security and optimization challenges.
+I am a 3rd-year Artificial Intelligence student at Huachiew Chalermprakiet University (GPA 3.72), specializing in Computer Vision and Real-time Detection Pipelines. Currently, I am seeking a 4-month Cooperative Education internship (August – November 2026) to apply my expertise in AI development and leading technical teams to solve high-impact, real-world challenges in a professional environment.
 
 - 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics (AI3313).
 - 🧠 **Research Interests:** Natural Language Processing (RAG & TTS) and Autonomous Defense Systems.
