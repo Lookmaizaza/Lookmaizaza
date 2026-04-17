@@ -23,27 +23,22 @@ I am a 3rd-year **Artificial Intelligence student** at Huachiew Chalermprakiet U
 
 ### 🌟 Featured Projects
 
-#### 🛡️ Anti-Drone Defense System (TESA Top Gun Rally 2025) 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lookmaizaza/TESA_2025)
-**Role: Lead AI Developer (Defense)**
+#### 🛡️ Anti-Drone Defense System (TESA 2025) [![View Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lookmaizaza/TESA_2025) [![Watch Demo](https://img.shields.io/badge/-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](http://youtube.com/watch?v=CXnDO8Qoxrs)
+- **Role: Lead AI Developer (Defense)**
 - Developed a real-time defense system using **YOLOv8n** for high-precision drone detection.
 - Built a **React** dashboard for live telemetry and threat visualization.
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lookmaizaza/TESA_2025) [![Watch Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-video-link)
 
-#### 🎙️ Linguist Helper: Automated Thai Text Extraction
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lookmaizaza/Linguist_Helper)
+#### 🎙️ Linguist Helper: Thai Text Extraction [![View Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lookmaizaza/Linguist_Helper)
 - Web-based system for automated Thai text cleaning, tokenization, and linguistic analysis.
-- Automated data export for structured research use.
+- Automated data export for structured research and statistical use.
 
-#### 👤 Libra Face: Automated Library Entry System
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lookmaizaza/libraface) [![Watch Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
-- Transformed manual student ID entry into an automated **OpenCV** facial recognition system.
-- Improved library entry efficiency and campus security.
+#### 👤 Libra Face: Library Entry System [![View Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lookmaizaza/libraface)
+- Modernized university library access by replacing manual entry with **OpenCV** facial recognition.
+- Improved entry efficiency and enhanced campus biometric security.
 
-#### 📦 Metaheuristic Packing Optimizer
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lookmaizaza)
+#### 📦 Metaheuristic Packing Optimizer [![View Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lookmaizaza)
 - Solved complex 3D packing challenges using **ILS** and **Genetic Algorithms**.
-- Focused on high-efficiency space optimization and resource management.
+- Focused on high-efficiency space optimization and algorithmic resource management.
 
 ---
 
