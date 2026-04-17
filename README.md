@@ -1,10 +1,9 @@
 # Hi there! I'm Kanokphorn Rungrattanapong(Lookmai) 🤖🚀
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20&%20Full-stack%20Developer&fontSize=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lookmaizaza%20&%20Full-stack%20Developer&fontSize=45)
 
 ### 🎓 Summary
-I am a 3rd-year Artificial Intelligence student at Huachiew Chalermprakiet University (GPA 3.72), specializing in Computer Vision and Real-time Detection Pipelines. Currently, I am seeking a 4-month Cooperative Education internship (August – November 2026) to apply my expertise in AI development and leading technical teams to solve high-impact, real-world challenges in a professional environment.
-
+I am a 3rd-year **Artificial Intelligence student** at Huachiew Chalermprakiet University (GPA 3.72), specializing in Computer Vision and Real-time Detection Pipelines. Currently, I am seeking a **4-month Cooperative Internship (August – November 2026)** I am highly motivated to embrace new technologies and eager to learn from industry professionals. I am committed to refining my existing skills in AI and Robotics to deliver practical, high-impact solutions in a real-world professional environment.
 - 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics (AI3313).
 - 🧠 **Research Interests:** Natural Language Processing (RAG & TTS) and Autonomous Defense Systems.
 - ⚡ **Commitment:** Engineering stable, high-performance AI solutions with modern web interfaces.
@@ -24,14 +23,18 @@ I am a 3rd-year Artificial Intelligence student at Huachiew Chalermprakiet Unive
 
 ### 🌟 Featured AI & Web Projects
 
-#### 🛡️ [Anti-Drone Defense System (TESA Top Gun Rally 2025)](https://github.com/Lookmaizaza)
+#### 🛡️ [Anti-Drone Defense System (TESA Top Gun Rally 2025)](https://github.com/Lookmaizaza/TESA_2025)
 **Role: Lead AI Developer (Defense)**
 - Spearheaded the development of a real-time defense system using **YOLOv8n**.
 - Integrated AI detection with a **React-based dashboard** for live GPS telemetry visualization.
 - Optimized model inference speed and accuracy for high-stakes drone detection.
 
+#### 👤 [Libra Face: Automated Library Entry System](https://github.com/Lookmaizaza)
+- Developed a facial recognition system using **OpenCV** to modernize university library access.
+- **Innovation:** Transformed the traditional manual student ID entry process into a seamless, automated biometric authentication system.
+- **Impact:** Enhanced security and significantly improved the user experience for students.
+
 #### 📦 [Metaheuristic Packing Optimizer](https://github.com/Lookmaizaza)
-**AI3313 Term Project**
 - Formulated and solved complex **Packing Problems** using Metaheuristic algorithms (ILS & GA).
 - Developed a visualizer to demonstrate space utilization and convergence behavior.
 
@@ -42,8 +45,6 @@ I am a 3rd-year Artificial Intelligence student at Huachiew Chalermprakiet Unive
 ---
 
 ### 📊 GitHub Insights
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Lookmaizaza&show_icons=true&theme=radical&count_private=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lookmaizaza&layout=compact&theme=radical)
 
