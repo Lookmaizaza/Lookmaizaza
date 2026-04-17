@@ -1,7 +1,5 @@
 # Hi there! I'm Kanokphorn Rungrattanapong (Lookmai) 🤖🚀
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lookmaizaza%20&%20Full-stack%20Developer&fontSize=45)
-
 ### 🎓 Summary
 I am a 3rd-year **Artificial Intelligence student** at Huachiew Chalermprakiet University (GPA 3.72), specializing in Computer Vision and Real-time Detection Pipelines. Currently, I am seeking a **4-month Cooperative Internship (August – November 2026)** I am highly motivated to embrace new technologies and eager to learn from industry professionals. I am committed to refining my existing skills in AI and Robotics to deliver practical, high-impact solutions in a real-world professional environment.
 - 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics.
