@@ -34,9 +34,6 @@ I am a 3rd-year **Artificial Intelligence student** at Huachiew Chalermprakiet U
 - Modernized university library access by replacing manual entry with **OpenCV** facial recognition.
 - Improved entry efficiency and enhanced campus biometric security.
 
-#### 📦 Metaheuristic Packing Optimizer [![View Project](https://img.shields.io/badge/-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lookmaizaza)
-- Solved complex 3D packing challenges using **ILS** and **Genetic Algorithms**.
-- Focused on high-efficiency space optimization and algorithmic resource management.
 
 ---
 
