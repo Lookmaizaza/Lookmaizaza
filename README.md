@@ -1,11 +1,5 @@
 # Hi there! I'm Kanokphorn Rungrattanapong (Lookmai) 🤖🚀
 
-### 🎓 Summary
-I am a 3rd-year **Artificial Intelligence student** at Huachiew Chalermprakiet University (GPA 3.72), specializing in Computer Vision and Real-time Detection Pipelines. Currently, I am seeking a **4-month Cooperative Internship (August – November 2026)** I am highly motivated to embrace new technologies and eager to learn from industry professionals. I am committed to refining my existing skills in AI and Robotics to deliver practical, high-impact solutions in a real-world professional environment.
-- 🔭 **Currently focused on:** Advanced Packing Optimization using Metaheuristics.
-- 🧠 **Research Interests:** Natural Language Processing (RAG & TTS) and Autonomous Defense Systems.
-- ⚡ **Commitment:** Engineering stable, high-performance AI solutions with modern web interfaces.
-
 ---
 
 ### 🛠 Technical Ecosystem
